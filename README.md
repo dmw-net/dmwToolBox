@@ -2,8 +2,6 @@
 
 程序员必备在线工具箱 —— 免费、在线、即开即用。
 
-## 在线体验
-
 🌐 官网：[https://tools.2025521.xyz](https://tools.2025521.xyz)
 
 ## 功能介绍
@@ -42,28 +40,11 @@
 - 房贷计算器
 - 个税计算器
 
-## 技术栈
-
-- [Nuxt 3](https://nuxt.com) — Vue 全栈框架
-- [Tailwind CSS](https://tailwindcss.com) — 样式框架
-- [Cloudflare Pages](https://pages.cloudflare.com) — 部署平台
-
-## 本地开发
-
-```bash
-# 安装依赖
-npm install
-
-# 启动开发服务器
-npm run dev
-
-# 构建
-npm run build
-```
-
 ## 问题反馈
 
-如有问题或建议，请在 [Issues](https://github.com/dmw-net/dmwToolBox/issues) 中提出。
+本仓库用于收集问题反馈、功能建议和 Bug 报告。
+
+如有任何问题、建议或发现了 Bug，请打开 [Issues](https://github.com/dmw-net/dmwToolBox/issues) 告诉我们，我们会尽快处理。
 
 ## License
 
